@@ -9,16 +9,16 @@ TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
 TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
 无线新闻台,https://cdn6.163189.xyz/163189/wxxw
 NOW新闻,https://cdn.163189.xyz/163189/now
-NOW星影台,http://208.87.242.79:40041
-NOW爆谷台,http://208.87.242.79:38677
-美亞電影台,http://208.87.242.79:45227
+NOW星影,http://208.87.242.79:40041
+NOW爆谷,http://208.87.242.79:38677
+美亞電影,http://208.87.242.79:45227
 HOY77,https://cdn6.163189.xyz/163189/hoy
 HOY78,https://cdn.163189.xyz/163189/hoy78
 RTHK31,https://cdn.163189.xyz/163189/rthk31
 RTHK32,https://cdn.163189.xyz/163189/rthk32
 ViuTV,https://cdn.163189.xyz/163189/viu
-华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
+华丽翡翠,https://o11.163189.xyz/stream/live/hlt/
 Astro AOD,https://o11.163189.xyz/stream/live/aod/
 Astro AEC,https://o11.163189.xyz/stream/live/aec/
 爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
-千禧经典台,https://o11.163189.xyz/stream/live/tvbc/ 
+千禧经典,https://o11.163189.xyz/stream/live/tvbc/ 
