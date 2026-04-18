@@ -1,5 +1,4 @@
 港澳频道,#genre#
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 翡翠台,http://cdn6.163189.xyz/163189/fct
 明珠台,http://cdn6.163189.xyz/163189/mzt
 TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
