@@ -41,7 +41,7 @@ http://111.48.34.138/000000001000PLTV/88888888/224/3221229831/1.m3u8
 
 #EXTINF:-1 tvg-name="浙江卫视4K" tvg-logo="https://logo.catvod.com/浙江卫视4K.png" group-title="卫视频道",浙江卫视4K
 rtsp://111.48.34.138:1554/170000004112/HBGD1161024372223684608826694195
-#EXTINF:-1 tvg-name="四川卫视4K" tvg-logo="https://logo.catvod.com/四川卫视4K.png" group-title="卫视频道",四川卫视4K
+#EXTINF:-1 tvg-name="四川卫视4K" tvg-logo="https://logo.catvod.com/四川卫视.png" group-title="卫视频道",四川卫视4K
 rtsp://111.48.34.138:1554/170000004112/HBGD1161024782644719616300513999
 #EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://logo.catvod.com/湖南卫视4K.png" group-title="卫视频道",湖南卫视4K
 rtsp://111.48.34.138:1554/170000004112/HBGD1161024675055546368175052165
@@ -51,7 +51,7 @@ rtsp://111.48.34.138:1554/170000004112/HBGD1134934009353457664504975325
 rtsp://111.48.34.138:1554/170000004112/HBGD1099046553413197824376375621
 #EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="https://logo.catvod.com/东方卫视4K.png" group-title="卫视频道",东方卫视4K
 rtsp://111.48.34.138:1554/170000004112/HBGD1161023780712493056528252825
-#EXTINF:-1 tvg-name="山东卫视4K" tvg-logo="https://logo.catvod.com/山东卫视4K.png" group-title="卫视频道",山东卫视4K
+#EXTINF:-1 tvg-name="山东卫视4K" tvg-logo="https://logo.catvod.com/山东卫视.png" group-title="卫视频道",山东卫视4K
 rtsp://111.48.34.138:1554/170000004112/HBGD1161024518465400832464405079
 #EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="https://logo.catvod.com/江苏卫视4K.png" group-title="卫视频道",江苏卫视4K
 rtsp://111.48.34.138:1554/170000004112/HBGD1161024061978324992408004965
