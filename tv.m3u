@@ -141,7 +141,7 @@ http://111.48.34.138/000000001000PLTV/88888888/224/3221230388/1.m3u8
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230439/1.m3u8
 #EXTINF:-1 tvg-name="湖北垄上" tvg-logo="https://logo.catvod.com/湖北垄上.png" group-title="地方频道",湖北垄上
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230390/1.m3u8
-#EXTINF:-1 tvg-name="湖北公共新闻" tvg-logo="https://logo.catvod.com/湖北公共新闻.png" group-title="地方频道",湖北公共新闻
+#EXTINF:-1 tvg-name="湖北公共新闻" tvg-logo="https://logo.catvod.com/公共新闻.png" group-title="地方频道",湖北公共新闻
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230441/1.m3u8
 #EXTINF:-1 tvg-name="湖北影视" tvg-logo="https://logo.catvod.com/湖北影视.png" group-title="地方频道",湖北影视
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230404/1.m3u8
