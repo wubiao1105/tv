@@ -45,9 +45,10 @@ rtsp://111.48.34.138:1554/170000004112/HBGD1161024372223684608826694195
 rtsp://111.48.34.138:1554/170000004112/HBGD1161024782644719616300513999
 #EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://logo.catvod.com/湖南卫视4K.png" group-title="卫视频道",湖南卫视4K
 rtsp://111.48.34.138:1554/170000004112/HBGD1161024675055546368175052165
+http://111.48.34.138/000000001000PLTV/88888888/224/3221230606/1.m3u8
 #EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://logo.catvod.com/深圳卫视4K.png" group-title="卫视频道",深圳卫视4K
 rtsp://111.48.34.138:1554/170000004112/HBGD1134934009353457664504975325
-#EXTINF:-1 tvg-name="北京卫视4k" tvg-logo="https://logo.catvod.com/北京卫视4k.png" group-title="卫视频道",北京卫视4k
+#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://logo.catvod.com/北京卫视4K.png" group-title="卫视频道",北京卫视4K
 rtsp://111.48.34.138:1554/170000004112/HBGD1099046553413197824376375621
 #EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="https://logo.catvod.com/东方卫视4K.png" group-title="卫视频道",东方卫视4K
 rtsp://111.48.34.138:1554/170000004112/HBGD1161023780712493056528252825
