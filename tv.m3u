@@ -1,41 +1,45 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV1综合
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE remote
+#EXT-X-SUB-URL https://itv.aptv.app/china-iptv/hbyd.m3u
+
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV1
 http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN111128BESTVSMGSMG/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV2财经
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV2
 http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN5000036BESTVSMGSMG/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV3综艺
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV3
 http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638727c125355/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV4中文国际
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV4
 http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN5000037BESTVSMGSMG/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-name="CCTV-4K" tvg-logo="https://live.fanmingming.com/tv/CCTV-4K.png" group-title="数字频道",CCTV-4K
+#EXTINF:-1 tvg-name="CCTV-4K" tvg-logo="https://live.fanmingming.com/tv/CCTV-4K.png" group-title="央视频道",CCTV-4K
 http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN6604ddd5cf779/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV5体育
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV5
 http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638727e617ca0/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV5+体育赛事
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV5+
 http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN63872908d48f9/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV6电影
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV6
 http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638728804b1f9/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道",CCTV7国防军事
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道",CCTV7
 http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN5000038BESTVSMGSMG/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道",CCTV8电视剧
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道",CCTV8
 http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638728970aa82/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视频道",CCTV9纪录
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视频道",CCTV9
 http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN5000039BESTVSMGSMG/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视频道",CCTV10科教
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视频道",CCTV10
 http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN3949784BESTVSMGSMG/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视频道",CCTV11戏曲
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视频道",CCTV11
 http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN6000053BESTVSMGSMG/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视频道",CCTV12社会与法
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视频道",CCTV12
 http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN5000040BESTVSMGSMG/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV13新闻
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV13
 http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN6000054BESTVSMGSMG/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视频道",CCTV14少儿
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视频道",CCTV14
 http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN3949788BESTVSMGSMG/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道",CCTV15音乐
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道",CCTV15
 http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN6000055BESTVSMGSMG/index.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://logo.catvod.com/CCTV16.png" group-title="央视频道",CCTV-16
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000612
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV17农业农村
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV17
 http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638728afa13b4/index.m3u8?m3u8_level=2
 
 
