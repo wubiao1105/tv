@@ -34,7 +34,7 @@ http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN6000054BESTVSMGSMG/in
 http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN3949788BESTVSMGSMG/index.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道",CCTV15
 http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN6000055BESTVSMGSMG/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://logo.catvod.com/CCTV16.png" group-title="央视频道",CCTV-16
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://logo.catvod.com/CCTV16.png" group-title="央视频道",CCTV16
 http://111.48.34.159/000000000000/PLTV/88888888/224/3221230606/1.m3u8
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000612
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV17
