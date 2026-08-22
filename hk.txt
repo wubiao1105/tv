@@ -1,24 +1,2 @@
 港澳频道,#genre#
-凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
-凤凰中文,https://cdn6.163189.xyz/163189/fhzw
-凤凰香港,https://cdn6.163189.xyz/163189/fhhk
-凤凰电影,http://www.liyajun.top:7088/udp/239.253.93.81:6247
-翡翠台,http://cdn6.163189.xyz/163189/fct
-明珠台,http://cdn6.163189.xyz/163189/mzt
-TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
-TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
-无线新闻台,https://cdn6.163189.xyz/163189/wxxw
-NOW新闻,https://cdn.163189.xyz/163189/now
-NOW星影,http://208.87.242.79:40041
-NOW爆谷,http://208.87.242.79:38677
-美亞電影,http://208.87.242.79:45227
-HOY77,https://cdn6.163189.xyz/163189/hoy
-HOY78,https://cdn.163189.xyz/163189/hoy78
-RTHK31,https://cdn.163189.xyz/163189/rthk31
-RTHK32,https://cdn.163189.xyz/163189/rthk32
-ViuTV,https://cdn.163189.xyz/163189/viu
-华丽翡翠,https://o11.163189.xyz/stream/live/hlt/
-Astro AOD,https://o11.163189.xyz/stream/live/aod/
-Astro AEC,https://o11.163189.xyz/stream/live/aec/
-爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
-千禧经典,https://o11.163189.xyz/stream/live/tvbc/ 
+凤凰资讯,http://111.48.34.150/000000000000/PLTV/88888888/224/3221230647/1.m3u8
