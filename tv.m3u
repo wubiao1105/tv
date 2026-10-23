@@ -35,6 +35,7 @@ http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN3949788BESTVSMGSMG/in
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道",CCTV15
 http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN6000055BESTVSMGSMG/index.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://logo.catvod.com/CCTV16.png" group-title="央视频道",CCTV16
+http://111.48.34.159/000000000000/PLTV/88888888/224/3221230606/1.m3u8
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000612
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV17
 http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638728afa13b4/index.m3u8?m3u8_level=2
@@ -46,7 +47,6 @@ rtsp://111.48.34.138:1554/170000004112/HBGD1161024372223684608826694195
 #EXTINF:-1 tvg-name="四川卫视4K" tvg-logo="https://logo.catvod.com/四川卫视.png" group-title="卫视频道",四川卫视4K
 rtsp://111.48.34.138:1554/170000004112/HBGD1161024782644719616300513999
 #EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://logo.catvod.com/湖南卫视4K.png" group-title="卫视频道",湖南卫视4K
-http://111.48.34.159/000000000000/PLTV/88888888/224/3221230606/1.m3u8
 http://111.48.34.230/000000000000/PLTV/88888888/224/3221230690/1.m3u8
 rtsp://111.48.34.138:1554/170000004112/HBGD1161024675055546368175052165
 #EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://logo.catvod.com/深圳卫视4K.png" group-title="卫视频道",深圳卫视4K
